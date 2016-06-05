@@ -1,0 +1,27 @@
+c:\users\tomasz kryg\documents\visual studio 2013\Projects\Shapes\Shapes\bin\Debug\Shapes.exe.config
+c:\users\tomasz kryg\documents\visual studio 2013\Projects\Shapes\Shapes\bin\Debug\Shapes.exe
+c:\users\tomasz kryg\documents\visual studio 2013\Projects\Shapes\Shapes\bin\Debug\Shapes.pdb
+c:\users\tomasz kryg\documents\visual studio 2013\Projects\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+c:\users\tomasz kryg\documents\visual studio 2013\Projects\Shapes\Shapes\obj\Debug\Shapes.Form1.resources
+c:\users\tomasz kryg\documents\visual studio 2013\Projects\Shapes\Shapes\obj\Debug\Shapes.Properties.Resources.resources
+c:\users\tomasz kryg\documents\visual studio 2013\Projects\Shapes\Shapes\obj\Debug\Shapes.csproj.GenerateResource.Cache
+c:\users\tomasz kryg\documents\visual studio 2013\Projects\Shapes\Shapes\obj\Debug\Shapes.exe
+c:\users\tomasz kryg\documents\visual studio 2013\Projects\Shapes\Shapes\obj\Debug\Shapes.pdb
+C:\Users\Tomasz Kryg\Desktop\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Tomasz Kryg\Desktop\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\Tomasz Kryg\Desktop\Shapes\Shapes\obj\Debug\Shapes.pdb
+C:\Users\Tomasz Kryg\Desktop\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Tomasz Kryg\Desktop\Shapes\Shapes\obj\Debug\Shapes.Form1.resources
+C:\Users\Tomasz Kryg\Desktop\Shapes\Shapes\obj\Debug\Shapes.Properties.Resources.resources
+C:\Users\Tomasz Kryg\Desktop\Shapes\Shapes\obj\Debug\Shapes.csproj.GenerateResource.Cache
+C:\Users\Tomasz Kryg\Desktop\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\Tomasz Kryg\Desktop\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Tomasz Kryg\Desktop\ShapesTomka\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Tomasz Kryg\Desktop\ShapesTomka\Shapes\bin\Debug\Shapes.exe
+C:\Users\Tomasz Kryg\Desktop\ShapesTomka\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Tomasz Kryg\Desktop\ShapesTomka\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Tomasz Kryg\Desktop\ShapesTomka\Shapes\obj\Debug\Shapes.Form1.resources
+C:\Users\Tomasz Kryg\Desktop\ShapesTomka\Shapes\obj\Debug\Shapes.Properties.Resources.resources
+C:\Users\Tomasz Kryg\Desktop\ShapesTomka\Shapes\obj\Debug\Shapes.csproj.GenerateResource.Cache
+C:\Users\Tomasz Kryg\Desktop\ShapesTomka\Shapes\obj\Debug\Shapes.exe
+C:\Users\Tomasz Kryg\Desktop\ShapesTomka\Shapes\obj\Debug\Shapes.pdb

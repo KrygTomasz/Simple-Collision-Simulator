@@ -1,0 +1,12 @@
+C:\Users\Tomasz Kryg\Desktop\Shapes\Shapes\bin\Release\Shapes.exe.config
+C:\Users\Tomasz Kryg\Desktop\Shapes\Shapes\bin\Release\Shapes.exe
+C:\Users\Tomasz Kryg\Desktop\Shapes\Shapes\bin\Release\Shapes.pdb
+C:\Users\Tomasz Kryg\Desktop\Shapes\Shapes\obj\Release\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Tomasz Kryg\Desktop\Shapes\Shapes\obj\Release\Shapes.Form1.resources
+C:\Users\Tomasz Kryg\Desktop\Shapes\Shapes\obj\Release\Shapes.Properties.Resources.resources
+C:\Users\Tomasz Kryg\Desktop\Shapes\Shapes\obj\Release\Shapes.csproj.GenerateResource.Cache
+C:\Users\Tomasz Kryg\Desktop\Shapes\Shapes\obj\Release\Shapes.exe
+C:\Users\Tomasz Kryg\Desktop\Shapes\Shapes\obj\Release\Shapes.pdb
+C:\Users\Tomasz Kryg\Desktop\Simple Collision Simulator\Shapes\bin\Release\Shapes.exe.config
+C:\Users\Tomasz Kryg\Desktop\Simple Collision Simulator\Shapes\obj\Release\Shapes.exe
+C:\Users\Tomasz Kryg\Desktop\Simple Collision Simulator\Shapes\obj\Release\Shapes.pdb
